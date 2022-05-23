@@ -25,9 +25,3 @@
 ;  - Listar Cód., Título e apenas o primeiro país produtor da obra
 ;  - Criar um novo arquivo (filmes_brasileiros.json) contendo apenas os filmes que conste o Brasil no campo
 ; “País Produtor da Obra”
-; Enviar o código do programa trab2.py para o e-mail edeciofernando@gmail.com
-; Conceitos:
-; A: Todos os módulos completos
-; B: Um módulo ausente ou incompleto
-; C: Dois módulos ausentes ou incompletos
-; D: Mais que dois módulos ausentes ou incompletos
