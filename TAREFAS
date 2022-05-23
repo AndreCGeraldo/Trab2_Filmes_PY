@@ -1,0 +1,33 @@
+; Trabalho #2 – Extração de Dados e Manipulação de Estruturas de Dados
+; A partir do arquivo http://177.101.203.139/edecio/filmes.json com a estrutura inicial exibida abaixo,
+; elaborar um programa que contenha rotinas para executar as seguintes tarefas:
+; Programa Controle de Filmes
+
+; 1. Listar filmes do servidor
+; => Cód., Título (35 caracteres), Gênero, Distribuição (Empresa Distribuidora), Ano e Público no Ano
+
+; 2. Filtrar por País Produtor da Obra
+; => Cód., Título (35 caracteres) e Público e País Produtor da Obra
+
+; 3. Salvar Dados em Arquivo Local (apenas dos filmes com público superior a 100.000 pessoas)
+
+; 4. Listar dados do arquivo local
+; => Cód., Título (35 caracteres), Gênero, Distribuição (Empresa Distribuidora), Ano e Público no Ano
+
+; 5. Estatística
+; => Nº de filmes cadastrados, Nº de filmes exibidos em 2018, Nº de filmes exibidos em 2019, Público médio
+; dos filmes
+
+; 6. Agrupar por gênero
+; => Gênero e nº de filmes
+
+; 7. Atividade extra:
+;  - Listar Cód., Título e apenas o primeiro país produtor da obra
+;  - Criar um novo arquivo (filmes_brasileiros.json) contendo apenas os filmes que conste o Brasil no campo
+; “País Produtor da Obra”
+; Enviar o código do programa trab2.py para o e-mail edeciofernando@gmail.com
+; Conceitos:
+; A: Todos os módulos completos
+; B: Um módulo ausente ou incompleto
+; C: Dois módulos ausentes ou incompletos
+; D: Mais que dois módulos ausentes ou incompletos
